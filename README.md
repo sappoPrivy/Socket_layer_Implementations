@@ -41,15 +41,15 @@ root/
 
 Run the scripts in this order:
 
-1. **Client connects with a TCP server**  
+1. **Client connects with a TCP server through terminal**  
    ```bash
    java TCPAsk time.nist.gov 13
    ```
-1. **Run the server**  
+1. **Run the HTTPAsk server**  
    ```bash
    java ConcHTTPAsk 8888
    ```
-2. **Open TCP connection and send GET request**  
+2. **Open TCP connection through web-based approach and send GET request**  
    ```bash
    curl http://hostname.domain/ask?hostname=time.nist.gov&limit=1200&port=13
    ```
