@@ -1,8 +1,7 @@
 # Socket-layer-implementations
-_IK1203 Networks and Communication, 7.5 credits at KTH Royal Institute of Technology_  
+_IK1203 Networks and Communication, 7.5 credits at KTH Royal Institute of Technology_, Spring 2025  
 Code written by Tenzin Sangpo Choedon  
 Skeleton declaration provided by KTH  
-Spring 2025  
 
 ## 📄 Overview
 This project implements networking applications through the socket API. This entails designing the client and server side of the client-server communication architercture. The client side is a general-purpose TCP client that can communicate with servers through different application protocols. The web server in this project processes the http requests through calling TCPClient.askServer(). This HTTPAsk server is also concurrent which implies it can process the request of multiple clients in parallel. The HTTP request can be made in the web broswer and the resulting HTTP response is displayed in the web browser.
