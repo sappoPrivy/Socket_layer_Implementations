@@ -1,6 +1,6 @@
 # Socket layer implementations
-_IK1203 Networks and Communication, 7.5 credits at KTH Royal Institute of Technology_, Spring 2025  
-Republished code developed by Tenzin Sangpo Choedon  
+_IK1203 Networks and Communication, 7.5 credits at KTH Royal Institute of Technology_  
+Code developed by Tenzin Sangpo Choedon, Spring 2025 (Republished)  
 Skeleton declaration provided by KTH  
 
 ## 📄 Overview
